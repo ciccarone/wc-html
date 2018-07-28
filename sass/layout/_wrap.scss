@@ -1,0 +1,13 @@
+.wrap {
+  @media (min-width: bp(small)) {
+    max-width: $max-width;
+    margin: 0 auto;
+  }
+
+  &--outer {
+    @media (min-width: bp(small)) {
+      max-width: $max-width--outer;
+      margin: 0 auto;
+    }
+  }
+}

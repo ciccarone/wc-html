@@ -1,0 +1,12 @@
+.btn {
+
+  background-color: $color--green;
+  color: white;
+  padding: rem(6) rem(12);
+  font-size: rem(14);
+  transition: .2s;
+
+  &:hover {
+    background-color: darken($color--green, 1);
+  }
+}
