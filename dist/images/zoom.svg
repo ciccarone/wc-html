@@ -1,0 +1,11 @@
+<svg width="39px" height="40px" viewBox="0 0 39 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch - Tony Ciccarone https://tonyciccarone.com -->
+    <desc>Wyze:  Zoom</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-/-zoom" transform="translate(-30.000000, -12.000000)" fill="#002632">
+            <path d="M46,26 L46,19 L44,19 L44,26 L37,26 L37,28 L44,28 L44,35 L46,35 L46,28 L53,28 L53,26 L46,26 Z M45,42 C36.7157288,42 30,35.2842712 30,27 C30,18.7157288 36.7157288,12 45,12 C53.2842712,12 60,18.7157288 60,27 C60,35.2842712 53.2842712,42 45,42 Z" id="Combined-Shape"></path>
+            <rect id="Rectangle-2" transform="translate(61.310660, 44.310660) rotate(-45.000000) translate(-61.310660, -44.310660) " x="58.3106602" y="36.9718254" width="6" height="14.6776695"></rect>
+        </g>
+    </g>
+</svg>

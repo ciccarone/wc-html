@@ -1,0 +1,11 @@
+<svg width="56px" height="40px" viewBox="0 0 56 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch - Tony Ciccarone https://tonyciccarone.com -->
+    <desc>Wyze:  Resolution</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-/-resolution" transform="translate(-21.000000, -12.000000)" fill="#002632">
+            <path d="M70.2426407,17 L60,27.2426407 L61.4142136,28.6568542 L72,18.0710678 L72,27 L74,27 L74,15 L72,15 L62,15 L62,17 L70.2426407,17 Z M60,52 L60,29 L21,29 L21,14 C21,12.8954305 21.8954305,12 23,12 L75,12 C76.1045695,12 77,12.8954305 77,14 L77,50 C77,51.1045695 76.1045695,52 75,52 L60,52 Z" id="Combined-Shape"></path>
+            <path d="M21,31 L21,50 C21,51.1045695 21.8954305,52 23,52 L58,52 L58,31 L21,31 Z" id="Rectangle-15-Copy-2" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

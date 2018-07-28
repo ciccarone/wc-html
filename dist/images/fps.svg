@@ -1,0 +1,14 @@
+<svg width="64px" height="40px" viewBox="0 0 64 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch - Tony Ciccarone https://tonyciccarone.com -->
+    <desc>Wyze:  Frames Per Second</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-/-fps" transform="translate(-16.000000, -12.000000)" fill="#002632">
+            <g id="Group" transform="translate(16.000000, 12.000000)">
+                <path d="M54,16 L62,16 C63.1045695,16 64,16.8954305 64,18 L64,38 C64,39.1045695 63.1045695,40 62,40 L26,40 C24.8954305,40 24,39.1045695 24,38 L24,34 L50,34 C52.209139,34 54,32.209139 54,30 L54,16 Z" id="Combined-Shape"></path>
+                <path d="M2,0 C0.8954305,0 -2.22044605e-16,0.8954305 0,2 L0,22 C0,23.1045695 0.8954305,24 2,24 L38,24 C39.1045695,24 40,23.1045695 40,22 L40,2 C40,0.8954305 39.1045695,-2.22044605e-16 38,0 L2,0 Z" id="Path"></path>
+                <path d="M42,8 L50,8 C51.1045695,8 52,8.8954305 52,10 L52,30 C52,31.1045695 51.1045695,32 50,32 L14,32 C12.8954305,32 12,31.1045695 12,30 L12,26 L38,26 C40.209139,26 42,24.209139 42,22 L42,8 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

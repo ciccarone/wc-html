@@ -1,0 +1,18 @@
+<svg width="76px" height="38px" viewBox="0 0 76 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch - Tony Ciccarone https://tonyciccarone.com -->
+    <desc>Wyze:  Cloud</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="76" height="44"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-/-cloud" transform="translate(-12.000000, -14.000000)">
+            <g id="Rectangle-16-+-Oval-10-+-Oval-10-Copy-+-Oval-10-Copy-2-+-Oval-10-Copy-3-Mask" transform="translate(12.000000, 8.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <path d="M36.1772402,45 L43,45 L43,35 L53,35 L39,21 L25,35 L35,35 L35,44.2359322 C34.8887502,44.1583329 34.7782868,44.079684 34.6686243,44 L29.3964073,44 C27.721858,44.6458931 25.9022821,45 24,45 C22.0977179,45 20.278142,44.6458931 18.6035927,44 L8,44 C3.581722,44 -5.68434189e-14,40.418278 -5.68434189e-14,36 C-5.68434189e-14,31.581722 3.581722,28 8,28 C8.38079293,28 8.75537192,28.026605 9.12197956,28.0780576 C10.0654495,20.7014635 16.3669007,15 24,15 C25.8140601,15 27.5529075,15.3220237 29.1624964,15.9120254 C32.8696907,9.9607833 39.4723001,6 47,6 C58.5979797,6 68,15.4020203 68,27 C68,27.3352372 67.9921447,27.6686397 67.9766082,28.0000335 C67.9844029,28.0000112 67.9922001,28 68,28 C72.418278,28 76,31.581722 76,36 C76,40.418278 72.418278,44 68,44 L59.3313757,44 C55.8687463,46.5160497 51.6076707,48 47,48 C43.0409957,48 39.3378686,46.9044595 36.1772402,45 Z" id="Combined-Shape" fill="#002632" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
