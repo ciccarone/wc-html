@@ -1,0 +1,167 @@
+.footer {
+
+
+  padding: rem(50) 0;
+
+  &--dark {
+    color: white;
+
+    background-color: $color--dark;
+    a {
+      color: $white;
+
+      &:hover {
+        color: $color--blue;
+      }
+    }
+  }
+
+  .wrap > div {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    margin: 0;
+    list-style: none;
+    // float: left;
+  }
+
+  a {
+    color: $white;
+
+    &:hover {
+      color: $color--blue;
+    }
+  }
+
+  &__top {
+    font-size: rem(14);
+    align-items: flex-start;
+
+    .footer__left {
+      align-items: start;
+      width: 100%;
+      max-width: rem(500);
+      justify-content: space-between;
+
+      a {
+        padding: 5px 0;
+        display: block;
+      }
+    }
+
+    .footer__right {
+      display: block;
+    }
+  }
+
+  &__bottom {
+    font-size: rem(12);
+    margin-top: rem(80);
+    li {
+      float: left;
+      padding: 0 rem(18);
+    }
+  }
+
+  &__subscribe form {
+    display: flex;
+    justify-content: space-between;
+    width: rem(400);
+
+    input {
+      outline: 0;
+      font-size: rem(12);
+      padding: rem(16) 0;
+    }
+
+    input[type="text"] {
+      border: none;
+      width: 100%;
+      border-top-left-radius: $border-radius;
+      border-bottom-left-radius: $border-radius;
+      text-indent: rem(20);
+    }
+
+    input[type="submit"] {
+      width: rem(170);
+      background-color: $color--green;
+      letter-spacing: rem(.5);
+      border: none;
+      border-top-right-radius: $border-radius;
+      border-bottom-right-radius: $border-radius;
+      color: white;
+      text-transform: uppercase;
+      &:hover {
+        background-color: darken($color--green, 1);
+      }
+    }
+  }
+
+  &__logo {
+    margin-right: rem(20);
+    width: rem(70);
+  }
+
+  &__left {
+    li:first-child {
+      font-weight: bold;
+    }
+    display: flex;
+    // align-items: center;
+  }
+  &__right {
+    display: flex;
+    align-items: center;
+    li:last-child {
+      padding-right: 0;
+    }
+  }
+
+  &__social {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: rem(50);
+
+    &__connect {
+      font-size: rem(16);
+      margin-right: rem(25);
+    }
+
+    &__icon {
+
+      text-align: center;
+      font-size: rem(23);
+
+      &:before {
+        font-family: "FontAwesome";
+        display: block;
+        // width: 23px;
+      }
+
+      &--facebook:before {
+        content: "\f09a";
+      }
+
+      &--instagram:before {
+        content: "\f16d";
+      }
+
+      &--twitter:before {
+        content: "\f099";
+      }
+
+      &--youtube:before {
+        content: "\f167";
+      }
+    }
+  }
+}
