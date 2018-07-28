@@ -1,0 +1,55 @@
+.product-masthead {
+
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+
+  .wrap {
+    width: 100%;
+  }
+
+  @media (min-width: bp(large)) {
+    min-height: rem(700);
+  }
+  //
+  // @media (min-width: bp(xxlarge)) {
+  //   background-size: contain;
+  // }
+
+
+  &--right {
+    &__text {
+      float: right;
+    }
+  }
+
+  &--center {
+    &__text {
+      margin: 0 auto;
+    }
+  }
+
+  &__text {
+    max-width: rem(500);
+  }
+
+  &__title {
+    font-size: rem(70);
+    line-height: rem(90);
+    font-weight: 300;
+    color: $color--dark;
+    margin: 0;
+  }
+
+  &__subtitle {
+    font-size: rem(24);
+    font-weight: 300;
+    color: $color--dark;
+    margin: rem(24) 0 0 0;
+  }
+
+  &__link {
+    margin-top: rem(30);
+  }
+}
