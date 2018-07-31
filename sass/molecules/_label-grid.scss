@@ -1,0 +1,28 @@
+.label-grid {
+
+  &__items {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__item {
+    text-align: center;
+    color: $color--dark;
+  }
+
+  &__tab {
+    margin-bottom: rem(10);
+    border: rem(2) solid $color--dark;
+    border-radius: rem(4);
+    width: rem(84);
+    font-size: rem(40);
+    text-align: center;
+  }
+
+  &__note {
+    text-align: center;
+    font-size: rem(12);
+    color: $color--gray;
+    margin-top: rem(18);
+  }
+}
